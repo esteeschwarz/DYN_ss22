@@ -5,6 +5,6 @@
 .Rprofile
 .Ulysses-Settings.plist
 .Ulysses-Group.plist
-/.DS_Store
+.DS_Store
 .vscode
 ~$.*
